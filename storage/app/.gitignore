@@ -1,0 +1,6 @@
+*
+!public/
+!/terapeutas
+/terapeutas/*
+!/terapeutas/default.png
+!.gitignore
